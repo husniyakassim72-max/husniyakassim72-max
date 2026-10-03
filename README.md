@@ -1,16 +1,97 @@
-## Hi there 👋
+# 👋 Hi, I'm Husniya Kassim
 
-<!--
-**husniyakassim72-max/husniyakassim72-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 IT Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Learning • Building • Improving • Growing 🚀</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 About Me
+
+🎓 I am an Information Technology student passionate about software development.
+
+💻 I am learning how to build practical software applications and solve problems using technology.
+
+🌐 I am interested in web development and software development.
+
+🤝 I enjoy teamwork and learning through practical projects.
+
+🚀 My goal is to become a professional software developer.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Programming & Web
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Python
+
+### ⚛️ Frameworks & Technologies
+
+- React
+- Node.js
+- Laravel
+- Flutter
+
+### 🗄️ Database
+
+- MySQL
+
+### 🔧 Tools
+
+- Git
+- GitHub
+- VS Code
+- GitHub Desktop
+
+---
+
+## 📚 Currently Learning
+
+🌱 Improving my programming skills
+
+⚛️ Learning React and modern web development
+
+🐍 Learning Python
+
+🗄️ Improving SQL and database skills
+
+🔧 Improving Git and GitHub
+
+💻 Learning how to build complete software applications
+
+---
+
+## 🎯 My Goals
+
+- 🚀 Become a professional software developer
+- 💻 Build real-world applications
+- 📚 Continuously improve my programming skills
+- 🤝 Gain experience working on team projects
+- 🌐 Build a strong developer portfolio
+- ⭐ Contribute to open-source projects
+
+---
+
+## 💡 My Learning Journey
+
+```text
+Learn
+  ↓
+Practice
+  ↓
+Build
+  ↓
+Make Mistakes
+  ↓
+Improve
+  ↓
+Build Better
+  ↓
+Grow as a Developer 🚀

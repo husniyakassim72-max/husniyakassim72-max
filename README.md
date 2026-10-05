@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://github.com/husniyakassim/husniyakassim/raw/main/background.jpg" width="100%">
-</p>
-" width="100%">
-</p>
-
 # 👋 Hi, I'm Husniya Kassim
 
 ### 💻 IT Student | Aspiring Software Developer

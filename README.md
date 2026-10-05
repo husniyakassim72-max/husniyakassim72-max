@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gist/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/01151_inthedeep_2560x1600.jpg" width="100%">
+  <img src="https://i.pinimg.com/736x/a9/6d/2f/a96d2fef0b1f9a50065e8c6a9f365a1d.jpg" width="100%">
 </p>
 
 # 👋 Hi, I'm Husniya Kassim

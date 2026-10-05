@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="<img width="719" height="1280" alt="image" src="https://github.com/user-attachments/assets/d00bcd7c-c8b0-4724-99ac-11a3395a1c10" />
+" width="100%">
+</p>
+
 # 👋 Hi, I'm Husniya Kassim
 
 ### 💻 IT Student | Aspiring Software Developer

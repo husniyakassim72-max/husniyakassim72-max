@@ -7,8 +7,10 @@
   <b>Learning • Building • Improving • Growing 🚀</b>
 </p>
 
-👋 Hi, I'm Husniya Kassim  
-💻 IT Student | Aspiring Software Developer
+  👋 Hi, I'm Husniya Kassim 
+
+      
+    💻 IT Student | Aspiring Software Developer
 ---
 
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/a9/6d/2f/a96d2fef0b1f9a50065e8c6a9f365a1d.jpg" width="100%">
+  <img src="https://i.pinimg.com/736x/59/d6/8f/59d68fba82d17f1323f4976d17283370.jpg" width="100%">
   # 👋 Hi, I'm Husniya Kassim 
   ### 💻 IT Student | Aspiring Software Developer
 </p>

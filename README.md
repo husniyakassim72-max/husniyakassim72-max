@@ -1,15 +1,16 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/59/d6/8f/59d68fba82d17f1323f4976d17283370.jpg" width="100%">
-   👋 Hi, I'm Husniya Kassim  💻 IT Student | Aspiring Software Developer
+  <img src="banner.svg" width="100%">
 </p>
-
-
-
 
 
 <p align="center">
   <b>Learning • Building • Improving • Growing 🚀</b>
 </p>
+
+👋 Hi, I'm Husniya Kassim  
+💻 IT Student | Aspiring Software Developer
+---
+
 
 ---
 

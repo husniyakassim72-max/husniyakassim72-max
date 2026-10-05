@@ -1,0 +1,45 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="background" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4b1f6f"/>
+      <stop offset="50%" stop-color="#7b2cbf"/>
+      <stop offset="100%" stop-color="#c2185b"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#background)"/>
+
+  <path
+    d="M0 275
+       Q200 250 400 270
+       Q600 245 800 265
+       Q1000 250 1200 275
+       L1200 300
+       L0 300 Z"
+    fill="#32104f"
+  />
+
+  <text
+    x="600"
+    y="160"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="68"
+    font-weight="bold"
+    fill="white">
+    Husniya Kassim
+  </text>
+
+  <text
+    x="600"
+    y="220"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="27"
+    font-weight="bold"
+    fill="white">
+    IT Student | Aspiring Software Developer
+  </text>
+
+</svg>

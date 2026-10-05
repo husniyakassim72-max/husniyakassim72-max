@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://i.pinimg.com/736x/59/d6/8f/59d68fba82d17f1323f4976d17283370.jpg" width="100%">
-  # 👋 Hi, I'm Husniya Kassim 
-  ### 💻 IT Student | Aspiring Software Developer
+   👋 Hi, I'm Husniya Kassim  💻 IT Student | Aspiring Software Developer
 </p>
 
 

@@ -86,6 +86,22 @@
 - ⭐ Contribute to open-source projects
 
 ---
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=husniyakassim72-max&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=husniyakassim72-max&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+---
+
+## 💻 LeetCode Statistics
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=contest" width="60%" />
+</p>
 
 ## 💡 My Learning Journey
 

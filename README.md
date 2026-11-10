@@ -91,7 +91,7 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=husniyakassim72-max&show_icons=true&theme=tokyonight" width="49%" />
+  
   <img src="https://streak-stats.demolab.com/?user=husniyakassim72-max&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
